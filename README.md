@@ -80,7 +80,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 * **Erdem Yavuz Hacisoftaoglu**
 * **LinkedIn:** [linkedin.com/in/erdemyavuz](https://www.linkedin.com/in/erdem-yavuz-hacisoftaoglu/) 
-* **Email:** [your-email@example.com](mailto:erdemyavuz.hacisoftaoglu@gmail.com)
+* **Email:** [erdemyavuz.hacisoftaoglu@gmail.com](mailto:erdemyavuz.hacisoftaoglu@gmail.com)
 * **Hugging Face:** [huggingface.co/erdemyavuz](https://huggingface.co/erdemyavuz)
 
 ---
