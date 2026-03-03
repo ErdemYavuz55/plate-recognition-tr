@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions, suggestions, or just want to connect, feel free to reach out!
 
 * **Erdem Yavuz Hacisoftaoglu**
-* **LinkedIn:** [linkedin.com/in/erdemyavuz](https://www.linkedin.com/in/erdem-yavuz-hacisoftaoglu/) 
+* **LinkedIn:** [[linkedin.com/in/erdemyavuz](https://www.linkedin.com/in/erdem-yavuz-hacisoftaoglu/)](https://www.linkedin.com/in/erdem-yavuz-hacisoftaoglu/) 
 * **Email:** [erdemyavuz.hacisoftaoglu@gmail.com](mailto:erdemyavuz.hacisoftaoglu@gmail.com)
 * **Hugging Face:** [huggingface.co/erdemyavuz](https://huggingface.co/erdemyavuz)
 
